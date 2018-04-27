@@ -1,6 +1,7 @@
 include ':add-graphics-renderer',
         ':add-graphics-symbols',
         ':analyze-hotspots',
+        ':geodesic-operations',
         ':arcgis-mapimagelayer-url',
         ':arcgis-tiledlayer-url',
         ':arcgis-vectortiledlayer-url',
